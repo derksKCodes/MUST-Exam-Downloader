@@ -41,7 +41,7 @@ A powerful Python script for downloading exam papers from Meru University of Sci
 
 1. **Clone or download the script**
    ```bash
-   # clone https://github.com/derksKCodes/MUST-Exam-Downloader.git to your desired directory
+   # https://github.com/derksKCodes/MUST-Exam-Downloader.git
    ```
 
 2. **Install required packages**
